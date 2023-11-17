@@ -1,6 +1,13 @@
-@font-face {
-    font-family: 'GabiaHeuldot';
-   	src: url('GabiaHeuldot/web/GabiaHeuldot.woff2') format('woff');
-    font-weight: normal;
-    font-style: normal;
+@font-face{
+
+font-family :‘GabiaHeuldot‘;
+
+src : local('GabiaHeuldot‘),
+
+url('GabiaHeuldot/web/GabiaHeuldot.otf‘) format(’opentype‘),
+
+url('GabiaHeuldot/web/GabiaHeuldot.woff‘) format(’woff‘),
+
+url('GabiaHeuldot/web/GabiaHeuldot.woff2‘) format(’woff2‘)
+
 }

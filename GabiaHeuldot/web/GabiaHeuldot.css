@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'GabiaHeuldot';
+    src: url('https://github.com/holymoly-dodary/font/blob/main/GabiaHeuldot/web/GabiaHeuldot.otf') format('otf');
+	src: url('https://github.com/holymoly-dodary/font/blob/main/GabiaHeuldot/web/GabiaHeuldot.woff') format('woff');
+	src: url('https://github.com/holymoly-dodary/font/blob/main/GabiaHeuldot/web/GabiaHeuldot.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,8 +1,9 @@
 @font-face {
-    font-family: 'GabiaHeuldot'; 
-    font-style: normal;
-    font-weight: normal;
-    src: url(GabiaHeuldot/web/GabiaHeuldot.woff2) format("woff2"), 
-        url(GabiaHeuldot/web/GabiaHeuldot.woff) format("woff"),
-        url(GabiaHeuldot/web/GabiaHeuldot.otf) format("opentype");
-}
+      font-family: 'GabiaHeuldot';
+      src: url('https://raw.githubusercontent.com/holymoly-dodary/font/blob/main/GabiaHeuldot/web/GabiaHeuldot.woff2') format('woff2');
+      /* GitHub Raw URL을 사용하여 폰트 파일에 접근 */
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    body {font-family: 'GabiaHeuldot';}
